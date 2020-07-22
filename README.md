@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Marani Matias Ezequiel
+
+Information Systems Engineering. && Full Stack Dev && Teacher, Passionate about machine learning. Co-founder of Rapicopia.
+
+VUE JS / NODE JS / NUXT / BASH / GO
 
 <!--
-**MaraniMatias/MaraniMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaraniMatias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maranimatias/)  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=MaraniMatias&show_icons=true)
