@@ -2,7 +2,7 @@
 
 Information Systems Engineering. && Full Stack Dev && Teacher, Passionate about machine learning. Co-founder of Rapicopia.
 
-VIM / VUE JS / NODE JS / NUXT / BASH / GO
+VIM / VUE / NODE / NUXT / BASH / GO
 
 <!--
 Here are some ideas to get you started:
