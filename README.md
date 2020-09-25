@@ -1,8 +1,8 @@
 ### Hi there 👋, Marani Matias Ezequiel
 
-Information Systems Engineering. && Full Stack Dev && Teacher, Passionate about machine learning. Co-founder of Rapicopia.
+Information Systems Engineering. && Full Stack Dev && Trader Dev && Teacher, Passionate about machine learning. Co-founder of Rapicopia.
 
-VIM / VUE / NODE / NUXT / BASH / GO
+VIM / VUE / NODE / NUXT / BASH / GO / PYTHON
 
 <!--
 Here are some ideas to get you started:
