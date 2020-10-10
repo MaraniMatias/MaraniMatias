@@ -7,6 +7,9 @@ VIM | VUE | NODE | NUXT | BASH | GO | PYTHON
 I am a responsible person with a great entrepreneurial spirit who likes challenges as well as learning and improving oneself, I enjoy sharing my knowledge with others.
 
 [Go to Curriculum Vitae](http://maranimatias.github.io/)
+    
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=MaraniMatias&show_icons=true)
 
 <!--
 ### INTERESES
@@ -90,4 +93,3 @@ Here are some ideas to get you started:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MaraniMatias)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maranimatias/)  
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MaraniMatias&show_icons=true)
