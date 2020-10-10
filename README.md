@@ -1,11 +1,10 @@
 ## Hi there 👋, Marani Matias Ezequiel
 
+Information Systems Engineering. && Full Stack Dev && Trader Dev && Teacher, Passionate about machine learning. Co-founder of Rapicopia.
+
 VIM | VUE | NODE | NUXT | BASH | GO | PYTHON
 
-Soy una persona que busca superarse, me gustan los desafíos, al igual que aprender y compartir mis conocimientos con los demás.
-Con un gran espíritu emprender.
-
-Information Systems Engineering. && Full Stack Dev && Trader Dev && Teacher, Passionate about machine learning. Co-founder of Rapicopia.
+I am a responsible person with a great entrepreneurial spirit who likes challenges as well as learning and improving oneself, I enjoy sharing my knowledge with others.
 
 [Go to Curriculum Vitae](http://maranimatias.github.io/)
 
