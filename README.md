@@ -10,7 +10,9 @@ I am a responsible person with a great entrepreneurial spirit who likes challeng
     
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MaraniMatias&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maranimatias&layout=compact)
 
+    
 <!--
 ### INTERESES
 Viajar, conocer otras culturas.
