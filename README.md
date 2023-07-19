@@ -1,13 +1,17 @@
 ## Hi there 👋, Marani Matias Ezequiel
 
-Information Systems Engineering. && Full Stack Dev && Trader Dev && Teacher.
+Information Systems Engineering && Full Stack Dev && Trader Dev && Teacher.
 
-VIM | VUE | NODE | NUXT | BASH | GO | PYTHON
+VIM | VUE | NODE | NUXT | BASH | GO | PYTHON | KOTLIN 
 
 I am a responsible person with a great entrepreneurial spirit who likes challenges as well as learning and improving oneself, I enjoy sharing my knowledge with others.
 
 [Go to Curriculum Vitae](http://maranimatias.github.io/)
-    
+
+<!--
+<img src="https://api.daily.dev/devcards/68c9c9cc347543308489c224c86cb8c1.png?r=896" width="400" alt="Marani Matias Ezequiel's Dev Card"/>
+-->
+
 
 <!--
 ### INTERESES
