@@ -2,7 +2,7 @@
 
 Information Systems Engineering && Full Stack Dev && Trader Dev && Teacher.
 
-VIM | VUE | NODE | NUXT | BASH | GO | PYTHON | KOTLIN 
+VIM | VUE | NODE | NUXT | BASH | GO | PYTHON  
 
 I am a responsible person with a great entrepreneurial spirit who likes challenges as well as learning and improving oneself, I enjoy sharing my knowledge with others.
 
